@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
